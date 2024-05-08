@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "ayJBUSdCJWQjU4Xfjuhu20",
+    "name" : "Advance_R360 ",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ayJBUSdCJWQjU4Xfjuhu20"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-08T03:36:12.998Z",
+  "objectRefs" : [ ]
+}
