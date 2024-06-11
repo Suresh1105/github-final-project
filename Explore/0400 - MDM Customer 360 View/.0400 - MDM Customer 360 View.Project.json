@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "7LVXwnXeFEhcZzB2CdmVye",
+    "name" : "0400 - MDM Customer 360 View",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "MDM for Legacy and GDE creating customer 360º view",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-06-11T07:25:15.731Z",
+  "objectRefs" : [ ]
+}

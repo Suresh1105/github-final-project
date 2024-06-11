@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "8DbH7Prsu80eZWz5us4xIU",
+    "name" : "MDM-Model",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-06-11T07:25:15.731Z",
+  "objectRefs" : [ ]
+}
